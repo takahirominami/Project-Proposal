@@ -1,5 +1,4 @@
-# Project-Proposal
-Submit your group's project proposal here
+# Final Group Project Proposal
 
 **Project Proposal** (_15%_): The proposal is where your group will (unsurprisingly) pitch its project idea. The goal of this stage is two-fold. First, it is a good first, yet relatively low-stakes test of your group dynamics. As this is where you will introduce the problem, methods/solution, data, and so on, such a task reuqires consolidation and universal contribution to the overall vision of the project; in a word, _teamwork_. And second, the goal of the proposal is to get early-stage feedback from me on the feasibility of the project, both regarding your ability to complete it within the time frame of the course, as well as whether your project is in the scope of the class.
 	
